@@ -1,0 +1,30 @@
+h1 p.display-4{
+  color:white;
+  padding:0rem;
+  margin:0rem;
+}
+i.fa-fire{
+  
+}
+footer div{
+  height: 5rem;
+}
+div.container-fluid p{
+  color:white;
+}
+section div p.display-4{
+  font-size:2rem;
+}
+div#botton{
+  margin-bottom:1rem;
+  height:2.9rem;
+}
+div#botton button p{
+  font-size:1.4rem;
+}
+//tamaño del botón
+div#message-control button{
+  margin-top:.2rem;
+  padding-top:0.1rem;
+  height:2rem; 
+}
